@@ -1,7 +1,7 @@
 # TEMP-Converter
 ITC 250 TEMP CONVERTER
 
-This was a small project for a class at Seattle Central College. The Temp Converter works (changing between Kelvin, Celsiuis and Fahrenheit) however if you do not have PHP configured locally on your machine, you will be unable to run it. 
+This was a small project for a class at Seattle Central College. The Temp Converter works (changing between Kelvin, Celsius and Fahrenheit) however if you do not have PHP configured locally on your machine, you will be unable to run it. 
 
 The following is a shorthand guide for running PHP locally on a Windows machine:
 
